@@ -12,6 +12,7 @@
             user:'sa',
             password:'Barcelona11*',
             database:'NameTestDB'
+            
 
         },
         migrations:{
